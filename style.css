@@ -77,4 +77,5 @@ p{
     height: 80px; 
     object-fit: cover; 
     display: block;
+    z-index: 500;
 }
