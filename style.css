@@ -73,6 +73,7 @@ p{
     color: #5077bd;
 }
 .logo {
+    position: fixed; 
     width: 100%;
     height: 80px; 
     object-fit: cover; 
